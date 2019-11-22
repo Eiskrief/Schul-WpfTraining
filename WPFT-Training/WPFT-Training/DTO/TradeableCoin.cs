@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json;
 
-namespace WPFT_Training.Helper
+namespace WPFT_Training.DTO
 {
     public class TradeableCoin
     {

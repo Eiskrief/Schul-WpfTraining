@@ -2,7 +2,7 @@
 using System.Windows;
 using System.Net.Http;
 using Newtonsoft.Json;
-using WPFT_Training.Helper;
+using WPFT_Training.DTO;
 
 namespace WPFT_Training
 {
